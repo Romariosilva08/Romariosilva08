@@ -24,16 +24,12 @@ Seja bem-vindo ao meu espaço no GitHub! Sou apaixonado por tecnologia, com expe
 
 ## 💼 Experiência Profissional
 
-**Estagiário em Desenvolvimento de Software | 3S Tecnologia**  
+**Desenvolvedor | 3S Tecnologia**  
 🗓️ *26/06/2023 – Atualmente*  
 - Criação de interfaces interativas com **HTML**, **CSS** e **JavaScript**  
 - Desenvolvimento Back-End com **ASP.NET** e **C#**  
 - Manutenção de stored procedures e consultas em **SQL Server**  
 - Modelagem de sistemas utilizando **Figma**  
-
-**Outras Atividades**:  
-- Experiência com logística, controle de avarias e administração de dados  
-- Suporte técnico em software e hardware, garantindo estabilidade do ambiente de trabalho  
 
 ---
 
@@ -58,7 +54,7 @@ Seja bem-vindo ao meu espaço no GitHub! Sou apaixonado por tecnologia, com expe
 
 ## 🚀 Objetivos
 
-- Tornar-me um desenvolvedor referência em **Back-End** e **Segurança da Informação**  
+- Tornar-me um desenvolvedor referência em **Back-End** e **Front-End**  
 - Contribuir para projetos inovadores que impactem positivamente o dia a dia das pessoas  
 - Continuar aprendendo e compartilhando conhecimentos com a comunidade  
 
@@ -66,7 +62,7 @@ Seja bem-vindo ao meu espaço no GitHub! Sou apaixonado por tecnologia, com expe
 
 ## 🌐 Vamos Conectar?  
 
-- **LinkedIn**: [Romário Silva](https://www.linkedin.com/in/seu-linkedin-aqui)  
-- **E-mail**: seu-email@exemplo.com  
+- **LinkedIn**: [Romário Silva](https://www.linkedin.com/in/romario-silva-araujo)  
+- **E-mail**: romariosilva08@hotmail.com  
 
 📩 Entre em contato e vamos construir algo incrível juntos!  
