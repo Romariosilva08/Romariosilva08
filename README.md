@@ -60,6 +60,8 @@ Seja bem-vindo ao meu espaço no GitHub! Sou apaixonado por tecnologia, com expe
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 ## 🌐 Vamos Conectar?  
 
 - **LinkedIn**: [Romário Silva](https://www.linkedin.com/in/romario-silva-araujo)  
