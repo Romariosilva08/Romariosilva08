@@ -7,7 +7,7 @@ Seja bem-vindo ao meu espaço no GitHub! Sou apaixonado por tecnologia, com expe
 ## 🧑‍💻 Sobre Mim
 
 🎯 **Áreas de Atuação**:  
-- Desenvolvimento de aplicações robustas com **C#** e **ASP.NET**  
+- Desenvolvimento de aplicações robustas com **C#** e **NET Core**  
 - Gerenciamento e otimização de **bancos de dados** (SQL Server)  
 - Implementação de boas práticas de **Segurança da Informação**  
 - **Suporte técnico em TI** e resolução de problemas críticos  
