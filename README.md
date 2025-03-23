@@ -66,7 +66,7 @@ Seja bem-vindo ao meu espaço no GitHub! Sou apaixonado por tecnologia, com expe
 ## 📊 Minhas Estatísticas  
 
 ![Romário's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romariosilva08&show_icons=true&theme=radical&cache_seconds=3600)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romariosilva08&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romariosilva08&layout=compact&theme=radical&cache_seconds=3600)  
 
 ---
 
